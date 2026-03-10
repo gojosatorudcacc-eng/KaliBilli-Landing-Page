@@ -12,7 +12,7 @@ const CONFIG = {
   botInviteUrl: "https://discord.com/api/oauth2/authorize?client_id=1480600653238636554&permissions=8&scope=bot",
   
   // Support server invite link - users will be redirected here for support
-  supportServerUrl: "https://discord.gg/YOUR_SERVER_INVITE_CODE",
+  supportServerUrl: "https://discord.gg/PvkrqS6XNT",
   
   // Bot name (for display)
   botName: "Safed Billi",
